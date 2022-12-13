@@ -1,6 +1,6 @@
-#Git & Github
+# Git & Github
 
-##Git 
+## Git 
 
 ### what is Git and Who maked Git?
 
@@ -54,12 +54,12 @@
    - ci: Continuous Integration(지속적인 통합) 관련
  
 
-##Github
+## Github
 
  - Github는 Git을 이용하여 코드들을 저장하는 일종의 클라우드 저장소이다.
  - Git과 Github는 전혀 다른 것이다.
 
-##LICENSE
+## LICENSE
  
  - 오픈소스 프로젝트에서 License는 내가 만들 때와 배포할 때 가장 신경써야되는 부분이다.
 

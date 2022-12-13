@@ -1,6 +1,6 @@
-#Special Characters
+# Special Characters
  
-##특수기호의 이름
+## 특수기호의 이름
 
  **' ` '** - 백틱(Backtick), 그레이브(Grave)
  **' ~ '** - 틸드(Tilde), 물결표시
